@@ -25,6 +25,8 @@ You'll have to look up the Error Socket code to see what's Blocking you:
 
 `python create_connection.py`
 
+5: Wait for the scan and the Result
+
 ### You will have to play around with the host and port on lines 5 and 6 of the file till you are able to Break Through
 open up `create_connection.py` in your favorite editor, play around with lines 5 and 6
 

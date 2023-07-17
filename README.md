@@ -7,7 +7,7 @@ If not it will retun an error Socket code.
 
 You'll have to look up the Error Socket code to see what's Blocking you:
 
-'https://www.ibm.com/docs/en/db2/11.1?topic=message-tcpip-errors'
+[Error Codes on IBM Website](https://www.ibm.com/docs/en/db2/11.1?topic=message-tcpip-errors)
 
 ## How to use these scripts on a Windows Machine with CMD
 
@@ -19,11 +19,11 @@ You'll have to look up the Error Socket code to see what's Blocking you:
 
 3: Change the working directory to the folder you Cloned to:
 
-'cd C:\Users\...\...\...\...\TCP-Socket-Scanner'
+`cd C:\Users\...\...\...\...\TCP-Socket-Scanner`
 
 4: Once there type:
 
-'python create_connection.py'
+`python create_connection.py`
 
 ### You will have to play around with the host and port on lines 5 and 6 of the file till you are able to Break Through,
 

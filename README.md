@@ -28,7 +28,7 @@ You'll have to look up the Error Socket code to see what's Blocking you:
 5: Wait for the scan and the Result
 
 ### You will have to play around with the host and port on lines 5 and 6 of the file till you are able to Break Through
-open up `create_connection.py` in your favorite editor, play around with lines 5 and 6
+Open up `create_connection.py` in your favorite editor, play around with lines 5 and 6
 
 ### Experiment at YOUR OWN RISK:
 I will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable (including, without limitation, damage for loss of business or loss of profits) arising under or in connection with your use of or inability to use, my repos or your use of or reliance on any content displayed on them.

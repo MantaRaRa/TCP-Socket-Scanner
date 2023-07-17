@@ -18,9 +18,11 @@ You'll have to look up the Error Socket code to see what's Blocking you:
 2: Windows key + R, Type CMD in the pop up window
 
 3: Change the working directory to the folder you Cloned to:
+
 'cd C:\Users\...\...\...\...\TCP-Socket-Scanner'
 
-4: once there type:
+4: Once there type:
+
 'python create_connection.py'
 
 ### You will have to play around with the host and port on lines 5 and 6 of the file till you are able to Break Through,

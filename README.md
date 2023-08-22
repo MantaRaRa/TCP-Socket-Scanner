@@ -31,4 +31,7 @@ You'll have to look up the Error Socket code to see what's Blocking you:
 Open up `create_connection.py` in your favorite editor, play around with lines 5 and 6
 
 ### Experiment at YOUR OWN RISK:
-I will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable (including, without limitation, damage for loss of business or loss of profits) arising under or in connection with your use of or inability to use, my repos or your use of or reliance on any content displayed on them.
+I will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable (including, without limitation, damage for loss of business or loss of profits) arising under or in connection with your use of or inability to use, my repository or your use of or reliance on any content displayed on them.
+
+### Experiment at YOUR OWN RISK:
+All my repository are for educational purposes. If you use it illegally and get into trouble, I am not responsible. Always get permission from the owner before scanning / brute-forcing / exploiting a system.
